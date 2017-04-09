@@ -1,7 +1,7 @@
 # Личный проект «Нёрдс»
 
-* Студент: [Stanislav Chunikhin](https://up.htmlacademy.ru/htmlcss/16/user/259809).
-* Наставник: `Неизвестно`.
+* Студент: [Alina]
+* Наставник: `Denis`.
 
 ---
 
